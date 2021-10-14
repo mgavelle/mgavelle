@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I'm Mélanie Gavelle
+a web Developper
+
 <!--
 **mgavelle/mgavelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
