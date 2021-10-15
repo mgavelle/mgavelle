@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgavelle&label=Profile%20views&color=0e75b6&style=flat" alt="mgavelle" /> </p>
 
-- 🔭 I’m currently working on [Keycoopt System App](https://www.keycooptsystem.com/)
+- 🔭 I’m currently working on @keycoopt [Keycoopt System App](https://www.keycooptsystem.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,4 +11,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgavelle&" alt="mgavelle" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgavelle&count_private=true&show_icons=true&theme=dracula)
+[![Mélani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgavelle&count_private=true&show_icons=true&theme=dracula)](https://github.com/mgavelle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgavelle&layout=compact)](https://github.com/mgavelle/github-readme-stats)
