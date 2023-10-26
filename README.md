@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgavelle&label=Profile%20views&color=0e75b6&style=flat" alt="mgavelle" /> </p>
 
-🔭 I’m currently working on @keycoopt [Keycoopt System App](https://www.keycooptsystem.com/)
+🔭 
 
 
 <h3 align="left">Languages and Tools:</h3>
