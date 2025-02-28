@@ -70,7 +70,7 @@ Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les ré
 <br/>
 
 ## 🌍 Langues
-- **Anglais** : Limited Working Proficiency
+- **Anglais** : A2 level
 
 ---
 
