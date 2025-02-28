@@ -20,7 +20,7 @@ Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les ré
 
 ## 💼 Expérience professionnelle
 
-### **Picomto** - Chef de projet (Octobre 2024 - Présent)  
+### **XXXXXX** - Chef de projet (Octobre 2024 - Présent)  
 📍 La Madeleine, Hauts-de-France, France  
 - Suivi et analyse des besoins clients, rédaction des spécifications.
 - Planification de la roadmap produit.
