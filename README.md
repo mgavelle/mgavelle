@@ -5,10 +5,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgavelle&label=Profile%20views&color=0e75b6&style=flat" alt="mgavelle" /> </p>
-🔭 
+
 
 <p>
-   Cheffe de projet digital avec une solide expérience en développement front-end, j’ai évolué vers la gestion de projet pour piloter des initiatives stratégiques et assurer la coordination entre équipes techniques et métiers. Habituée à gérer des comités de pilotage (COPIL), à structurer des roadmaps et à suivre le déploiement des releases, j’interviens également dans la rédaction de cahiers des charges afin de garantir la clarté et la pertinence des besoins fonctionnels. Mon parcours me permet d’allier compréhension technique et vision business, avec une approche méthodique et orientée résultats.
+   🔭  Cheffe de projet digital avec une solide expérience en développement front-end, j’ai évolué vers la gestion de projet pour piloter des initiatives stratégiques et assurer la coordination entre équipes techniques et métiers. Habituée à gérer des comités de pilotage (COPIL), à structurer des roadmaps et à suivre le déploiement des releases, j’interviens également dans la rédaction de cahiers des charges afin de garantir la clarté et la pertinence des besoins fonctionnels. Mon parcours me permet d’allier compréhension technique et vision business, avec une approche méthodique et orientée résultats.
 </>
 
 <h3 align="left">Languages and Tools:</h3>
