@@ -6,7 +6,7 @@
 ## 🎯 Profil
 Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les réunions de lancement client (kick-off), tout en assurant la planification et le suivi des sorties des différentes releases. J'interviens également dans la rédaction des cahiers des charges pour garantir la clarté et la pertinence des besoins fonctionnels.
 
----
+<br/>
 
 ## 🛠️ Compétences
 - **Gestion de projet** : Planification, suivi des releases, animation des COPIL et COPROJ.
@@ -16,7 +16,7 @@ Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les ré
 - **Outils Projet** : Asana, ClickUp, Figma, Photoshop, Miro, Notion, Trello, MsProject, OpenProject, OpenSign.
 - **Méthodologies** : Méthode agile (Scrum).
 
----
+<br/>
 
 ## 💼 Expérience professionnelle
 
@@ -53,7 +53,7 @@ Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les ré
 - Création de l'UI.
 - Création du cahier des charges.
 
----
+<br/>
 
 ## 🎓 Formation
 - **Licence Réseaux et Systèmes de Communication, option Internet Intranet**  
@@ -62,19 +62,17 @@ Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les ré
 - **DEUST Bureautique Communication Multi Média, Gestion des systèmes, réseaux et LAN/WAN**  
   📍 IUT Informatique Calais (2001 - 2004)
 
----
+<br/>
 
 ## 📜 Certifications
 - **Unmasking HTML Emails**
 
----
+<br/>
 
 ## 🌍 Langues
 - **Anglais** : Limited Working Proficiency
 
 ---
-
-📌 *Ce document est un résumé de mon parcours professionnel. Pour plus d'informations, n'hésitez pas à me contacter via LinkedIn ou par email.*
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=mgavelle&show_icons=true&count_private=true"><img
