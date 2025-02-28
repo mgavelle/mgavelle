@@ -8,7 +8,7 @@
 
 
 <p>
-   🔭  Cheffe de projet digital avec une solide expérience en développement front-end, j’ai évolué vers la gestion de projet pour piloter des initiatives stratégiques et assurer la coordination entre équipes techniques et métiers. Habituée à gérer des comités de pilotage (COPIL), à structurer des roadmaps et à suivre le déploiement des releases, j’interviens également dans la rédaction de cahiers des charges afin de garantir la clarté et la pertinence des besoins fonctionnels. Mon parcours me permet d’allier compréhension technique et vision business, avec une approche méthodique et orientée résultats.
+   🔭  En tant que développeuse Front-End, j'ai acquis une solide expertise technique tout en développant un intérêt croissant pour la gestion de projets. Mes qualités organisationnelles, ma sensibilité au design et ma capacité à résoudre des problèmes de manière efficace me permettent de voir au-delà du code et de m'orienter vers des responsabilités plus globales. Indépendante, investie et volontaire, je souhaite désormais mettre à profit ces compétences pour évoluer vers un poste de chef de projet, où je pourrais prendre des initiatives tout en assurant leur réussite de bout en bout.
 </>
 
 <h3 align="left">Languages and Tools:</h3>
