@@ -1,6 +1,6 @@
 <header>
    <h1 align="center">Hi 👋, I'm Mélanie</h1>
-   <h2 align="center">A passionate Front-End developer from France</h2>
+   <h2 align="center">A passionate Front-End developer / Project Manager from France</h2>
 </header>
 
 ## 🎯 Profil
