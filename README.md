@@ -49,6 +49,9 @@ Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les ré
 ### **Satisfair** - Développeuse Flash/MX (Mars 2006 - Août 2008)  
 📍 Tingry, Hauts-de-France, France 
 - Développement de sites web en **Flash MX**.
+- Formation clients.
+- Création de l'UI.
+- Création du cahier des charges.
 
 ---
 
