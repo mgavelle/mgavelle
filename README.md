@@ -3,27 +3,75 @@
    <h2 align="center">A passionate Front-End developer from France</h2>
 </header>
 
+## 🎯 Profil
+Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les réunions de lancement client (kick-off), tout en assurant la planification et le suivi des sorties des différentes releases. J'interviens également dans la rédaction des cahiers des charges pour garantir la clarté et la pertinence des besoins fonctionnels.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgavelle&label=Profile%20views&color=0e75b6&style=flat" alt="mgavelle" /> </p>
+---
 
+## 🛠️ Compétences
+- **Gestion de projet** : Planification, suivi des releases, animation des COPIL et COPROJ.
+- **Développement Front-End** : React, MUI, SCSS, HTML, Responsive Design, wordpress, Eco conception.
+- **Outils dev** : Git, Playwright (tests E2E), Visual Studio, PhPmyadmin, ChatGPT, copilot.
+- **Outils UI** : Figma, Photoshop, Sketch.
+- **Outils Projet** : Asana, ClickUp, Figma, Photoshop, Miro, Notion, Trello, MsProject, OpenProject, OpenSign.
+- **Méthodologies** : Méthode agile (Scrum).
 
-<p>
-   🔭  En tant que développeuse Front-End, j'ai acquis une solide expertise technique tout en développant un intérêt croissant pour la gestion de projets. Mes qualités organisationnelles, ma sensibilité au design et ma capacité à résoudre des problèmes de manière efficace me permettent de voir au-delà du code et de m'orienter vers des responsabilités plus globales. Indépendante, investie et volontaire, je souhaite désormais mettre à profit ces compétences pour évoluer vers un poste de chef de projet, où je pourrais prendre des initiatives tout en assurant leur réussite de bout en bout.
-</>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color:white; padding: 10px"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/></p>
-<br/>
-<br/>
+## 💼 Expérience professionnelle
+
+### **Picomto** - Chef de projet (Octobre 2024 - Présent)  
+📍 La Madeleine, Hauts-de-France, France  
+- Suivi et analyse des besoins clients, rédaction des spécifications.
+- Planification de la roadmap produit.
+- Organisation et animation des comités de pilotage (COPIL) et comités de projet (COPROJ).
+- Rédaction de documentation technique.
+
+### **Huggle** - Développeuse front-end (Janvier 2022 - Août 2023)  
+📍 Remote - Ville de Paris, Île-de-France, France  
+- Intégration de l'application en marque blanche.
+- Développement en **React**, utilisation de **MUI**.
+- Création de tests **E2E** avec **Playwright**.
+
+### **Keycoopt System** - Développeuse Front-End (Décembre 2014 - Décembre 2021)  
+📍 Lille, Hauts-de-France, France  
+- Intégration du site en marque blanche.
+- Développement avec **SCSS, HTML, JQuery**.
+- Utilisation de **Photoshop, Sketch** et **Git**.
+- Sensibilisation au **Design System**.
+
+### **Pictime** - Développeuse front-end (Septembre 2008 - Novembre 2014)  
+📍 Villeneuve d'Ascq, France  
+- Développement en méthode **Agile (Scrum)**.
+- Technologies : **XSL, XML, HTML, CSS, JQuery, AngularJS, JavaScript**.
+- Responsive Design et intégration mobile.
+
+### **Satisfair** - Développeuse Flash/MX (Mars 2006 - Août 2008)  
+- Développement de sites web en **Flash MX**.
+
+---
+
+## 🎓 Formation
+- **Licence Réseaux et Systèmes de Communication, option Internet Intranet**  
+  📍 IUT Informatique Calais (2004 - 2006)
+  
+- **DEUST Bureautique Communication Multi Média, Gestion des systèmes, réseaux et LAN/WAN**  
+  📍 IUT Informatique Calais (2001 - 2004)
+
+---
+
+## 📜 Certifications
+- **Unmasking HTML Emails**
+
+---
+
+## 🌍 Langues
+- **Anglais** : Limited Working Proficiency
+
+---
+
+📌 *Ce document est un résumé de mon parcours professionnel. Pour plus d'informations, n'hésitez pas à me contacter via LinkedIn ou par email.*
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=mgavelle&show_icons=true&count_private=true"><img
            height=150
