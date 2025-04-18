@@ -73,6 +73,9 @@ Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les ré
 - **Anglais** : A2 level
 
 ---
+![Stats GitHub](https://github-readme-stats-mgavelle.vercel.app/api?username=mgavelle&show_icons=true&count_private=true&theme=radical)
+
+![Langages](https://github-readme-stats-mgavelle.vercel.app/api/top-langs/?username=mgavelle&layout=compact&theme=radical)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=mgavelle&show_icons=true&count_private=true"><img
