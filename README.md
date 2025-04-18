@@ -4,7 +4,7 @@
 </header>
 
 ## 🎯 Profil
-Chef de projet digital, je coordonne les comités de pilotage (COPIL) et les réunions de lancement client (kick-off), tout en assurant la planification et le suivi des sorties des différentes releases. J'interviens également dans la rédaction des cahiers des charges pour garantir la clarté et la pertinence des besoins fonctionnels.
+Cheffe de projet digital avec un passé technique en développement, j’ai planifié et participé activement à des projets transverses, animé des comités de pilotage et structuré des process internes. À l’aise avec la gestion des priorités, la coordination d’équipe et le reporting, je combine rigueur, adaptabilité et sens de l’organisation. Ma double casquette technique et fonctionnelle me permet de faire le lien entre les équipes et d’assurer le bon déroulement des projets, de la planification à la livraison.
 
 <br/>
 
