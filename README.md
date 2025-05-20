@@ -73,9 +73,7 @@ Cheffe de projet digital avec un passé technique en développement, j’ai plan
 - **Anglais** : A2 level
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgavelle&exclude_repo=github-readme-stats,mgavelle.github.io)
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=mgavelle&exclude_repo=github-readme-stats&show_icons=true&count_private=true&theme=radical)
 
 ![Langages]([https://github-readme-stats.vercel.app/api/top-langs/?username=mgavelle&layout=compact&theme=radical)
 
