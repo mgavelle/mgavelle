@@ -73,15 +73,15 @@ Cheffe de projet digital avec un passé technique en développement, j’ai plan
 - **Anglais** : A2 level
 
 ---
-![Stats GitHub](https://github-readme-stats-mgavelle.vercel.app/api?username=mgavelle&exclude_repo=github-readme-stats&show_icons=true&count_private=true&theme=radical)
+![Stats GitHub](https://github-readme-stats-inky-phi.vercel.app/api?username=mgavelle&exclude_repo=github-readme-stats&show_icons=true&count_private=true&theme=radical)
 
-![Langages](https://github-readme-stats-mgavelle.vercel.app/api/top-langs/?username=mgavelle&layout=compact&theme=radical)
+![Langages](https://github-readme-stats-inky-phi.vercel.app/api/top-langs/?username=mgavelle&layout=compact&theme=radical)
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=mgavelle&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats-inky-phi.vercel.app/api?username=mgavelle&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=mgavelle&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats-inky-phi.vercel.app/api?username=mgavelle&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/mgavelle/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgavelle&layout=compact"/></a>
+                                                                  src="https://github-readme-stats-inky-phi.vercel.app/api/top-langs/?username=mgavelle&layout=compact"/></a>
 </p>
 
